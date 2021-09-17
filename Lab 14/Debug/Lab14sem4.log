@@ -1,0 +1,13 @@
+﻿  Lab14sem4.cpp
+C:\Users\Кучерявое божество\source\repos\Lab14sem4\Lab14sem4.cpp(104,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Кучерявое божество\source\repos\Lab14sem4\Lab14sem4.cpp(262,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Кучерявое божество\source\repos\Lab14sem4\Lab14sem4.cpp(424,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Кучерявое божество\source\repos\Lab14sem4\Lab14sem4.cpp(435,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Кучерявое божество\source\repos\Lab14sem4\Lab14sem4.cpp(571,51): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Кучерявое божество\source\repos\Lab14sem4\Lab14sem4.cpp(573,37): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Кучерявое божество\source\repos\Lab14sem4\Lab14sem4.cpp(575,39): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Кучерявое божество\source\repos\Lab14sem4\Lab14sem4.cpp(583,35): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Кучерявое божество\source\repos\Lab14sem4\Lab14sem4.cpp(587,39): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Кучерявое божество\source\repos\Lab14sem4\Lab14sem4.cpp(615,35): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Кучерявое божество\source\repos\Lab14sem4\Lab14sem4.cpp(553,13): warning C4101: vertexe: неиспользованная локальная переменная
+  Lab14sem4.vcxproj -> C:\Users\Кучерявое божество\source\repos\Lab14sem4\Debug\Lab14sem4.exe

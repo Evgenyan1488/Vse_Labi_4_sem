@@ -1,0 +1,14 @@
+﻿  laba 1.cpp
+C:\Users\Кучерявое божество\source\repos\laba 1\laba 1.cpp(147,13): warning C4101: a: неиспользованная локальная переменная
+C:\Users\Кучерявое божество\source\repos\laba 1\laba 1.cpp(166): message : выполняется компиляция ссылки на экземпляр шаблон функции "T FindSr<T>(T **,int,int)"
+          with
+          [
+              T=int
+          ]
+C:\Users\Кучерявое божество\source\repos\laba 1\laba 1.cpp(188): message : выполняется компиляция ссылки на экземпляр шаблон функции "int FindNum<int>(int,int,T **)"
+          with
+          [
+              T=int
+          ]
+C:\Users\Кучерявое божество\source\repos\laba 1\laba 1.cpp(151): warning C4715: FindSr<int>: значение возвращается не при всех путях выполнения
+  laba 1.vcxproj -> C:\Users\Кучерявое божество\source\repos\laba 1\Debug\laba 1.exe
